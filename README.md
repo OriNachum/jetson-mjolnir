@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/07c69360-119a-4219-90fe-d4b866124234" />
+
+
 ⚡ Mjölnir – Multi-Agent Dev System for Jetson Thor
 
 Container-based development agents for Jetson Thor (SBSA + MIG).
